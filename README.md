@@ -108,7 +108,7 @@ src/main/java/com/aprendizado/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/Aprendendo_POO.git
+git clone https://github.com/F-Bernardo-09/Aprendendo_POO.git
 cd Aprendendo_POO
 ```
 
