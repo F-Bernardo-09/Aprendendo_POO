@@ -2,6 +2,8 @@
 
 Repositório educacional com **65 exercícios práticos** de **Programação Orientada a Objetos (POO)** em Java, organizados em 7 listas de exercícios progressivas que cobrem desde fundamentos até conceitos avançados.
 
+**GitHub:** https://github.com/F-Bernardo-09/Aprendendo_POO
+
 ## 📋 Estrutura do Projeto
 
 ```
@@ -179,6 +181,8 @@ com.aprendizado.lista0X.questao0Y/Questao0Y.md       (Questões com enunciados)
 - Alguns exercícios possuem classes auxiliares (ex: `SistemaEscolar`, `Pagamento`)
 - Todos os arquivos compilam sem erros com JDK 11+
 - **Total:** 65 exercícios, 13 arquivos .md educacionais, 66 classes compiladas
+
+**Nota importante sobre `bin/`:** A pasta `bin/` contendo classes compiladas é ignorada no `.gitignore` (melhor prática). Você deve compilar localmente com `javac`.
 
 ## 🎓 Objetivos de Aprendizado
 
